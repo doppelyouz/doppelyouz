@@ -11,7 +11,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-%230073CF.svg?style=for-the-badge&logo=Node.js&logoColor=white&color=339933)
 ![Postman](https://img.shields.io/badge/postman-%23F44336.svg?style=for-the-badge&logo=Postman&logoColor=white&color=FF6C37)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ##
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
