@@ -7,6 +7,7 @@
 ![CSS](https://img.shields.io/badge/css-%23563D7C.svg?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React.js](https://img.shields.io/badge/react.js-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=white&color=61DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%230073CF.svg?style=for-the-badge&logo=Express&logoColor=white&color=000000)
 ![Node.js](https://img.shields.io/badge/node.js-%230073CF.svg?style=for-the-badge&logo=Node.js&logoColor=white&color=339933)
 ![Postman](https://img.shields.io/badge/postman-%23F44336.svg?style=for-the-badge&logo=Postman&logoColor=white&color=FF6C37)
