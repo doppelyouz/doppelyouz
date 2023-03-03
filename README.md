@@ -21,4 +21,4 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ##
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31c2esqdbp6cmjcfr4hep6v2emi4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31c2esqdbp6cmjcfr4hep6v2emi4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=31c2esqdbp6cmjcfr4hep6v2emi4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31c2esqdbp6cmjcfr4hep6v2emi4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]
