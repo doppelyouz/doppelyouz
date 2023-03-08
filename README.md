@@ -20,4 +20,4 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c2esqdbp6cmjcfr4hep6v2emi4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c2esqdbp6cmjcfr4hep6v2emi4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31c2esqdbp6cmjcfr4hep6v2emi4&redirect=true)
